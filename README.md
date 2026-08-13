@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=715&height=44&lines=Building%20things%20that%20shouldn't%20work%20%E2%80%94%20but%20do!;Full-stack%20chaos%2C%20production-grade%20results!!" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=Engineer%20across%20the%20stack%20%3B%20software%2C%20networks%2C%20data%2C%20ML%20%2C%20AI.;Full-stack%20chaos%2C%20production-grade%20results!!" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-A builder who is just curious— software, web apps, AI systems, networks, data automation, and whatever interesting problem happens to land in.
+A builder who is just curious— software, web apps, AI systems, networks, data automation, and whatever interesting problem happens to land in.]  
 🌍 Travel curious — new places, new perspectives, new things to get obsessed with. front of me.
 
 🔭 &nbsp;I'm currently working on **building, experimenting, breaking things, fixing them**  
@@ -44,8 +44,8 @@ A builder who is just curious— software, web apps, AI systems, networks, data 
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/ naila-sabit-b48988395" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://nailasanit2ai.github.io/nsabit.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/naila-sabit-b48988395/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nailasanit2-ai.github.io/nsabit.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:nailasanit2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -64,4 +64,3 @@ A builder who is just curious— software, web apps, AI systems, networks, data 
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/nailasanit2-ai">nailasanit2-ai</a></i></p>
-
