@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-A builder who is just curious— software, web apps, AI systems, networks, data automation, and whatever interesting problem happens to land in.]  
-🌍 Travel curious — new places, new perspectives, new things to get obsessed with. front of me.
+A builder who is just curious— software, web apps, AI systems, networks, data automation, and whatever interesting problem happens to land in.  
+🌍 Travel curious — new places, new perspectives, new things to get obsessed with.
 
 🔭 &nbsp;I'm currently working on **building, experimenting, breaking things, fixing them**  
 🌱 &nbsp;I'm currently learning **LLM, MCP**  
